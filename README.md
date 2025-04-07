@@ -1,4 +1,4 @@
-# Fotball league
+# Football league
 
 Program that uses a DB where analyzes the seasons results from La Liga.
 
